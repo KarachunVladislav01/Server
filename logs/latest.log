@@ -1,0 +1,113 @@
+[16:42:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:42:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:42:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:42:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:42:52] [main/INFO]: Loaded 0 recipes
+[16:42:52] [main/INFO]: Loaded 0 advancements
+[16:42:52] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[16:42:52] [Server thread/INFO]: Loading properties
+[16:42:52] [Server thread/INFO]: Default game type: SURVIVAL
+[16:42:52] [Server thread/INFO]: Generating keypair
+[16:42:53] [Server thread/INFO]: Starting Minecraft server on 192.168.0.100:25565
+[16:42:53] [Server thread/INFO]: Using default channel type
+[16:42:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:42:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:42:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:42:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:42:54] [Server thread/INFO]: Preparing level "world"
+[16:42:54] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:42:55] [Server thread/INFO]: Loaded 524 recipes
+[16:42:56] [Server thread/INFO]: Loaded 571 advancements
+[16:42:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:42:57] [Server thread/INFO]: Preparing spawn area: 4%
+[16:42:57] [Server thread/INFO]: Preparing spawn area: 8%
+[16:42:57] [Server thread/INFO]: Preparing spawn area: 12%
+[16:42:57] [Server thread/INFO]: Preparing spawn area: 16%
+[16:42:57] [Server thread/INFO]: Preparing spawn area: 20%
+[16:42:58] [Server thread/INFO]: Preparing spawn area: 24%
+[16:42:58] [Server thread/INFO]: Preparing spawn area: 28%
+[16:42:58] [Server thread/INFO]: Preparing spawn area: 32%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 36%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 40%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 44%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 48%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 52%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 56%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 60%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 64%
+[16:42:59] [Server thread/INFO]: Preparing spawn area: 68%
+[16:43:00] [Server thread/INFO]: Preparing spawn area: 72%
+[16:43:00] [Server thread/INFO]: Preparing spawn area: 76%
+[16:43:00] [Server thread/INFO]: Preparing spawn area: 80%
+[16:43:00] [Server thread/INFO]: Preparing spawn area: 84%
+[16:43:00] [Server thread/INFO]: Preparing spawn area: 88%
+[16:43:00] [Server thread/INFO]: Preparing spawn area: 92%
+[16:43:00] [Server thread/INFO]: Preparing spawn area: 96%
+[16:43:00] [Server thread/INFO]: Preparing spawn area: 100%
+[16:43:00] [Server thread/INFO]: Time elapsed: 3763 ms
+[16:43:00] [Server thread/INFO]: Done (6.318s)! For help, type "help"
+[16:47:24] [Server thread/INFO]: SpongeBoB[/91.215.178.13:56790] logged in with entity id 478 at (-5.699999988079075, 94.0, 63.30000001192094)
+[16:47:25] [Server thread/INFO]: SpongeBoB joined the game
+[16:47:29] [Server thread/INFO]: Smokeweed[/37.214.56.206:1676] logged in with entity id 564 at (50.308946417746974, 72.0, -59.46565360153907)
+[16:47:29] [Server thread/INFO]: Smokeweed joined the game
+[16:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6971ms or 139 ticks behind
+[16:50:13] [Server thread/WARN]: SpongeBoB moved too quickly! -10.0509117804297,0.0,-1.725734376464672
+[16:50:13] [Server thread/WARN]: SpongeBoB moved too quickly! -9.8705896717873,0.41999998688697815,-1.7327822100299812
+[17:02:48] [Server thread/INFO]: Smokeweed has made the advancement [Diamonds!]
+[17:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[17:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[17:06:49] [Server thread/INFO]: SpongeBoB lost connection: Disconnected
+[17:06:49] [Server thread/INFO]: SpongeBoB left the game
+[17:08:01] [Server thread/INFO]: SpongeBoB[/91.215.178.13:56931] logged in with entity id 17730 at (-5.377905450158459, 94.0, 65.55419783813633)
+[17:08:01] [Server thread/INFO]: SpongeBoB joined the game
+[17:14:32] [Server thread/INFO]: SpongeBoB has made the advancement [Diamonds!]
+[17:51:10] [Server thread/INFO]: SpongeBoB lost connection: Disconnected
+[17:51:10] [Server thread/INFO]: SpongeBoB left the game
+[17:52:04] [Server thread/INFO]: SpongeBoB[/91.215.178.13:57154] logged in with entity id 36033 at (61.18500889078463, 24.0, -91.19479015172898)
+[17:52:04] [Server thread/INFO]: SpongeBoB joined the game
+[18:00:35] [Server thread/INFO]: Smokeweed has made the advancement [Ice Bucket Challenge]
+[18:09:16] [Server thread/INFO]: SpongeBoB has made the advancement [Ice Bucket Challenge]
+[18:22:18] [Server thread/INFO]: SpongeBoB lost connection: Disconnected
+[18:22:18] [Server thread/INFO]: SpongeBoB left the game
+[18:22:46] [Server thread/INFO]: SpongeBoB[/91.215.178.13:57330] logged in with entity id 48139 at (117.14864925908702, 14.0, -113.76071270766593)
+[18:22:46] [Server thread/INFO]: SpongeBoB joined the game
+[18:49:46] [Server thread/INFO]: SpongeBoB was slain by Phantom
+[18:49:51] [Server thread/WARN]: SpongeBoB moved too quickly! -74.4250000119208,19.099998474121094,116.42500001192093
+[18:51:38] [Server thread/INFO]: SpongeBoB was slain by Phantom
+[18:54:09] [Server thread/INFO]: SpongeBoB lost connection: Disconnected
+[18:54:09] [Server thread/INFO]: SpongeBoB left the game
+[18:55:40] [Server thread/INFO]: SpongeBoB[/91.215.178.13:57507] logged in with entity id 60004 at (64.13108213970395, 68.0, -62.40008867372574)
+[18:55:40] [Server thread/INFO]: SpongeBoB joined the game
+[19:06:03] [Server thread/INFO]: SpongeBoB lost connection: Disconnected
+[19:06:03] [Server thread/INFO]: SpongeBoB left the game
+[19:07:10] [Server thread/INFO]: SpongeBoB[/91.215.178.13:57605] logged in with entity id 65644 at (50.72042823850874, 72.36075, -59.301769421684625)
+[19:07:10] [Server thread/INFO]: SpongeBoB joined the game
+[19:16:13] [Server thread/INFO]: Smokeweed has made the advancement [We Need to Go Deeper]
+[19:16:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13450ms or 269 ticks behind
+[19:16:15] [Server thread/INFO]: SpongeBoB has made the advancement [We Need to Go Deeper]
+[19:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
+[19:17:07] [Server thread/INFO]: SpongeBoB lost connection: Disconnected
+[19:17:07] [Server thread/INFO]: SpongeBoB left the game
+[19:17:42] [Server thread/INFO]: SpongeBoB[/91.215.178.13:57699] logged in with entity id 67720 at (1.5650206075777486, 70.0, -11.615825118934545)
+[19:17:42] [Server thread/INFO]: SpongeBoB joined the game
+[19:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:24:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[19:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
+[19:28:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[19:28:55] [Server thread/INFO]: SpongeBoB lost connection: Disconnected
+[19:28:55] [Server thread/INFO]: SpongeBoB left the game
+[19:29:33] [Server thread/INFO]: Smokeweed lost connection: Disconnected
+[19:29:33] [Server thread/INFO]: Smokeweed left the game
+[19:29:47] [Server thread/INFO]: Stopping the server
+[19:29:47] [Server thread/INFO]: Stopping server
+[19:29:47] [Server thread/INFO]: Saving players
+[19:29:47] [Server thread/INFO]: Saving worlds
+[19:29:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:29:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:29:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:29:48] [Server Shutdown Thread/INFO]: Stopping server
+[19:29:48] [Server Shutdown Thread/INFO]: Saving players
+[19:29:48] [Server Shutdown Thread/INFO]: Saving worlds
+[19:29:48] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:29:48] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:29:48] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
